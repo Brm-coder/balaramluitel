@@ -2,7 +2,7 @@
 
 export const profile = {
   fullName: 'Balaram Luitel',
-  title: '', // no "Dr." yet; can change to 'Mr.' or leave empty
+  title: 'Ph.D., EIT', 
   institute: 'PhD Student in Civil Engineering, The University of Texas at Arlington',
   author_name: 'Balaram Luitel',
 
