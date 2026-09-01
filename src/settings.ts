@@ -2,7 +2,7 @@
 
 export const profile = {
   fullName: 'Balaram Luitel',
-  title: 'Ph.D., EIT', 
+  title: '', 
   institute: 'PhD Student in Civil Engineering, The University of Texas at Arlington',
   author_name: 'Balaram Luitel',
 
