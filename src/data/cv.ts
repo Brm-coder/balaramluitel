@@ -14,6 +14,8 @@ export const experiences = [
     location: 'Arlington, TX, USA',
     description:
       'Graduate research in civil/structural engineering focused on bridge engineering and assessment. Inspected precast element fabrication and bridge construction on multiple TxDOT projects; conducted in-service bridge load testing, deck scanning with GPR and Impact Echo, and load rating using analytical and numerical models. Assisted with computer modeling and preparation of technical reports and documentation for TxDOT bridges; visited more than 20 bridge sites.',
+   image: '/images/UTA_logo.png',
+    url: 'https://www.uta.edu',
   },
   {
     company: 'The University of Texas at Arlington',
