@@ -1,7 +1,7 @@
 export const experiences = [
   {
     company: 'The University of Texas at Arlington',
-    time: 'Aug 2022 – Present',
+    time: 'Aug 2022 – May 2026',
     title: 'Graduate Research Assistant',
     location: 'Arlington, TX, USA',
     description:
@@ -9,7 +9,7 @@ export const experiences = [
   },
   {
     company: 'The University of Texas at Arlington',
-    time: 'Jan 2023 – May 2024',
+    time: 'Jan 2023 – Dec 2025',
     title: 'Graduate Teaching Assistant',
     location: 'Arlington, TX, USA',
     description:
@@ -60,7 +60,7 @@ export const experiences = [
 export const education = [
   {
     school: 'The University of Texas at Arlington',
-    time: 'Aug 2022 – May 2026 (expected)',
+    time: 'Aug 2022 – May 2026 ',
     degree: 'Doctor of Philosophy (PhD), Civil Engineering',
     location: 'Arlington, TX, USA',
     description:
