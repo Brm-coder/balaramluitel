@@ -1,5 +1,13 @@
 export const experiences = [
   {
+    company: 'HDR',
+    time: 'Aug 2026 – Present',
+    title: 'Bridge EIT',
+    location: 'USA',
+    description:
+      'Bridge design and analysis. ',
+  },
+  {
     company: 'The University of Texas at Arlington',
     time: 'Aug 2022 – May 2026',
     title: 'Graduate Research Assistant',
